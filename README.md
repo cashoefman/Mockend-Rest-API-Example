@@ -89,3 +89,25 @@ Test other random generators with this config:
     }
 
 Or, See their documentation for more details at https://mockend.com/post-install
+
+And that seemed so easy but, when I tested it, it didn't work. I got some error that I needed to switch to the paid plan or select 1 repo. Nowhere did I find any information on how to "select that 1 repo". But this is what I found.
+
+1. Go back to https://github.com/marketplace/mockend
+2. Click on "Configure access".
+
+![Mockend Setup](images/Mockend-5.jpg)
+
+3. Click the "Configure" button.
+
+![Mockend Setup](images/Mockend-5.jpg)
+
+4. On the next page click the radio button next to "Only Selected Repos" and, 
+5. Select the Repo that you pushed the .mockend.json file to.
+
+![Mockend Setup](images/Mockend-6.jpg)
+
+And now you ARE in business!
+
+![Mockend Setup](images/Mockend-6.jpg)
+
+Have fun!
