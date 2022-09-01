@@ -108,6 +108,6 @@ And that seemed so easy but, when I tested it, it didn't work. I got some error 
 
 And now you ARE in business!
 
-![Mockend Setup](images/Mockend-6.jpg)
+![Mockend Setup](images/Mockend-7.jpg)
 
 Have fun!
