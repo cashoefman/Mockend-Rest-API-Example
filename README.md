@@ -2,19 +2,19 @@
 
 ### This is an example of how to use Mockend to quickly setup a REST API
 
-Today I was goofing around with some development tools and I needed a simple REST API to do a little bit of testing. I really enjoy working with tools that make my life easier and I've written about Tools like this before.
+Today I was goofing around with some development tools and I needed a simple REST API to do a little bit of testing. I really enjoy working with tools that make my life easier and I've written about [tools like this](https://github.com/cashoefman/my-heroku-api-server) before.
 
-This time around we are going to look at how to use Mockend to quickly setup a REST API. Note this is a paid service but there is a free version for personal use.
+This time around we are going to look at how to use [Mockend](https://mockend.com/) to quickly setup a REST API. Note this is a paid service but there is a free version for personal use.
 
 To get started, go to https://github.com/marketplace/mockend and click on "Setup a plan".
 
 ![Mockend Setup](images/Mockend-1.jpg)
 
-Select the free plan and click on Install it for free! If you are already signed into your Github Account it will automatically use that or it will ask you to login to GitHub.
+Select the free plan and click on "Install it for free"! If you are already signed into your Github Account it will automatically use that or it will ask you to login to GitHub.
 
 ![Mockend Setup](images/Mockend-2.jpg)
 
-Next you click on "Complete order and begin installation" and than two last steps "Install & Authorize" and enter your TFA code and you are in business.
+Next you click on "Complete order and begin installation" and then two last steps "Install & Authorize" and enter your TFA code and you are in business.
 
 ![Mockend Setup](images/Mockend-3.jpg)
 
