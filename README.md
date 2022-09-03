@@ -90,7 +90,7 @@ Test other random generators with this config:
 
 Or, See their documentation for more details at https://mockend.com/post-install
 
-And that seemed so easy but, when I tested it, it didn't work. I got some error that I needed to switch to the paid plan or select 1 repo. Nowhere did I find any information on how to "select that 1 repo". But this is what I found.
+And that seemed so easy but, when I tested it, it didn't work. I got some error that I needed to switch to the paid plan or select 1 repo. Nowhere did I find any information on how to "select that 1 repo". After a little bit if digging, this is what I found out you need to do to make things work!
 
 1. Go back to https://github.com/marketplace/mockend
 2. Click on "Configure access".
