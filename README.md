@@ -6,7 +6,7 @@ Today I was goofing around with some development tools and I needed a simple RES
 
 This time around we are going to look at how to use [Mockend](https://mockend.com/) to quickly setup a REST API. Note this is a paid service but there is a free version for personal use.
 
-To get started, go to https://github.com/marketplace/mockend and click on "Setup a plan"!
+To get started, go to https://github.com/marketplace/mockend and click on the "Setup a plan" button.
 
 ![Mockend Setup](images/Mockend-1.jpg)
 
