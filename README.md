@@ -2,19 +2,19 @@
 
 ### This is an example of how to use Mockend to quickly setup a REST API
 
-Today I was goofing around with some development tools and I needed a simple REST API to do a little bit of testing. I really enjoy working with tools that make my life easier and I've written about Tools like this before.
+Today I was goofing around with some development tools and I needed a simple REST API to do a little bit of testing. I really enjoy working with tools that make my life easier and I've written about [tools like this](https://github.com/cashoefman/my-heroku-api-server) before.
 
-This time around we are going to look at how to use Mockend to quickly setup a REST API. Note this is a paid service but there is a free version for personal use.
+This time around we are going to look at how to use [Mockend](https://mockend.com/) to quickly setup a REST API. Note this is a paid service but there is a free version for personal use.
 
 To get started, go to https://github.com/marketplace/mockend and click on "Setup a plan"!
 
 ![Mockend Setup](images/Mockend-1.jpg)
 
-Select the free plan and click on Install it for free! If you are already signed into your Github Account it will automatically use that or it will ask you to login to GitHub.
+Select the free plan and click on "Install it for free"! If you are already signed into your Github Account it will automatically use that or it will ask you to login to GitHub.
 
 ![Mockend Setup](images/Mockend-2.jpg)
 
-Next you click on "Complete order and begin installation" and than two last steps "Install & Authorize" and enter your TFA code and you are in business.
+Next you click on "Complete order and begin installation" and then two last steps "Install & Authorize" and enter your TFA code and you are in business.
 
 ![Mockend Setup](images/Mockend-3.jpg)
 
@@ -90,7 +90,7 @@ Test other random generators with this config:
 
 Or, See their documentation for more details at https://mockend.com/post-install
 
-And that seemed so easy but, when I tested it, it didn't work. I got some error that I needed to switch to the paid plan or select 1 repo. Nowhere did I find any information on how to "select that 1 repo". But this is what I found.
+And that seemed so easy but, when I tested it, it didn't work. I got some error that I needed to switch to the paid plan or select 1 repo. Nowhere did I find any information on how to "select that 1 repo". After a little bit if digging, this is what I found out you need to do to make things work!
 
 1. Go back to https://github.com/marketplace/mockend
 2. Click on "Configure access".
